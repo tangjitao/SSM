@@ -4,6 +4,11 @@ public class test{
 	二号
 
 		一号
+<<<<<<< HEAD
+的说法是范德萨发
+=======
 
+dfafd
+>>>>>>> 88de6a0a5ae06549652a8de6a85cd8b32ba9723a
 	}
 }
